@@ -1,0 +1,15 @@
+C:\Users\dimss\Desktop\C#\Практическая №4\obj\Debug\net6.0\Практическая №4.csproj.AssemblyReference.cache
+C:\Users\dimss\Desktop\C#\Практическая №4\obj\Debug\net6.0\Практическая №4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimss\Desktop\C#\Практическая №4\obj\Debug\net6.0\Практическая №4.AssemblyInfoInputs.cache
+C:\Users\dimss\Desktop\C#\Практическая №4\obj\Debug\net6.0\Практическая №4.AssemblyInfo.cs
+C:\Users\dimss\Desktop\C#\Практическая №4\obj\Debug\net6.0\Практическая №4.csproj.CoreCompileInputs.cache
+C:\Users\dimss\Desktop\C#\Практическая №4\bin\Debug\net6.0\Практическая №4.exe
+C:\Users\dimss\Desktop\C#\Практическая №4\bin\Debug\net6.0\Практическая №4.deps.json
+C:\Users\dimss\Desktop\C#\Практическая №4\bin\Debug\net6.0\Практическая №4.runtimeconfig.json
+C:\Users\dimss\Desktop\C#\Практическая №4\bin\Debug\net6.0\Практическая №4.dll
+C:\Users\dimss\Desktop\C#\Практическая №4\bin\Debug\net6.0\Практическая №4.pdb
+C:\Users\dimss\Desktop\C#\Практическая №4\obj\Debug\net6.0\Практическая №4.dll
+C:\Users\dimss\Desktop\C#\Практическая №4\obj\Debug\net6.0\refint\Практическая №4.dll
+C:\Users\dimss\Desktop\C#\Практическая №4\obj\Debug\net6.0\Практическая №4.pdb
+C:\Users\dimss\Desktop\C#\Практическая №4\obj\Debug\net6.0\Практическая №4.genruntimeconfig.cache
+C:\Users\dimss\Desktop\C#\Практическая №4\obj\Debug\net6.0\ref\Практическая №4.dll
